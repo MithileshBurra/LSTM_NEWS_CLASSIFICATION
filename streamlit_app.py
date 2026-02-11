@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-APP_URL = "http://127.0.0.1:8000/predict"
+APP_URL = "https://lstm-news-classification.onrender.com/predict"
 
 st.title('News Article Classifier')
 
